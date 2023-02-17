@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-  <a href="https://arongordos.github.io/google-maps-api-demo/">https://arongordos.github.io/google-maps-api-demo/</a>
+  <a href="https://gordosaron.github.io/google-maps-api-demo/">https://gordosaron.github.io/google-maps-api-demo/</a>
 </div>
